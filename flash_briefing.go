@@ -1,4 +1,4 @@
-package alexa
+package golexa
 
 import (
 	"encoding/json"
